@@ -4,12 +4,12 @@ import { useState, useEffect, useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLessThan, faGreaterThan } from "@fortawesome/free-solid-svg-icons";
 import About from "@/components/about";
-import Skills from "@/components/Skills";
-import Projects from "@/components/Projects";
-import Education from "@/components/Education";
-import Certifications from "@/components/Certifications";
-import Gallery from "@/components/Gallery";
-import Contact from "@/components/Contact";
+import Skills from "@/components/skills";
+import Projects from "@/components/projects";
+import Education from "@/components/education";
+import Certifications from "@/components/certifications";
+import Gallery from "@/components/gallery";
+import Contact from "@/components/contact";
 
 
 export default function Home() {
